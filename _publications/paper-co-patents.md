@@ -1,4 +1,4 @@
----
+
 title: "Collaborative Innovation and R&D Disclosures: Evidence from Co-patents"
 collection: Working Papers
 category: manuscripts
