@@ -1,14 +1,8 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "Collaborative Innovation and R&D Disclosures: Evidence from Co-patents"
+collection: Working Papers
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper examines how firms’ R&D disclosures are associated with collaborative innovation, measured by co-patenting intensity. Compared to solo patents, co-patents are more uncertain and face a greater risk of proprietary information leakage. We find that firms with more co-patents tend to disclose less R&D information in 10-K filings, particularly when they collaborate on existing knowledge or in their core business. The association is stronger when firms’ IP rights are weakly protected. These findings suggest that firms tend to keep R&D disclosures low when they share essential knowledge and when competitors’ value appropriation is more likely. We further show that firms benefit from competitors’ R&D disclosures (e.g., firms have more innovation) only if the competitors have co-patenting partners. Lastly, we investigate alternative mechanisms (i.e., responding to investors’ information demand, signaling incentives, and expanding the collaborative network) that could affect the relationship between co-patenting and R&D disclosures. Altogether, our paper underscores collaboration as a key influence on corporate disclosures.'
+paperurl: '[https://academicpages.github.io/files/paper1.pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4493328)'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
