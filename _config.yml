@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "personal_image.png"
+  avatar           : "personal_image2.png"
   name             : "Zhongnan Xiang（项忠楠）"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Room 1.111, Warwick Business School, Scarman Road, Coventry, CV4 7AL"
+  location         : "UK"
   employer         : 
   uri              : # URL
   email            : "zhongnan.xiang@wbs.ac.uk" 
